@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Aditya Singh</h1>
 <h3 align="center">B.Tech CSE Student | MERN Stack & GenAI | Java+DSA | Exploring ML, Robotics & Modern Tech</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=adityasinghr651&style=flat-square&color=blue" alt="Profile views"/>
+</p>
+
 ---
 
 ## 👨‍💻 About Me
