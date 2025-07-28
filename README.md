@@ -31,14 +31,17 @@
 
 ### 🌐 Connect with me
 
+## 📫 Connect with Me
+
 <p align="left">
-  <a href="https://www.linkedin.com/in/aditya-singh-261201225" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" />
+  <a href="mailto:adityasinghr651@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="mailto:adityasinghr651@gmail.com">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+  <a href="https://www.linkedin.com/in/aditya-singh-261201225" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
+
 
 ---
 
@@ -49,6 +52,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+
 </p>
 
 ---
