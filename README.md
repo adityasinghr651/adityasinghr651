@@ -37,7 +37,7 @@
 ### 🔗 Let's Connect
 
 <p>
-  <a href="[https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/aditya-singh-261201225?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/aditya-singh-261201225" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
   <a href="adityasinghr651@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" /></a>
 </p>
 
