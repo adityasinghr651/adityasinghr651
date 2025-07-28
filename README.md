@@ -3,16 +3,25 @@
 
 ---
 
-### 👨‍🎓 About Me
+## 👨‍💻 About Me
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
 </p>
-- 🎓 I’m a **B.Tech CSE** student at **DIT University, Dehradun**, specializing in **AI, ML & Robotics**  
-- 🚀 Currently learning **MERN Stack**, **Java + DSA**, **Machine Learning**, **GenAI**, and **Version Control (Git & GitHub)**
-- 🤖 Passionate about **Artificial Intelligence**, **Web Development**, and **building real-world projects**
-- 💻 I enjoy working on projects that solve real problems and help me grow technically
-- 🌱 Open to collaborations and learning with the community
+
+- 🎓 Pursuing **B.Tech in Computer Science & Engineering** at **DIT University, Dehradun**
+- 🧠 Specialization in **Artificial Intelligence, Machine Learning & Robotics**
+- 📚 Currently learning:
+  - MERN Stack (MongoDB, Express, React, Node.js)
+  - Java with DSA
+  - Machine Learning & Generative AI
+  - Git & GitHub (Version Control)
+- 💡 Passionate about:
+  - AI/ML and GenAI
+  - Web Development
+  - Solving real-world problems through code
+- 🤝 Open to collaborations, hackathons, and building side projects
+- 🌱 Always learning and exploring new technologies
 
 ---
 
@@ -26,9 +35,8 @@
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
+
 ---
-
-
 
 ### 🛠️ Languages and Tools
 
