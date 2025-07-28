@@ -31,8 +31,6 @@
 
 ### 🌐 Connect with me
 
-## 📫 Connect with Me
-
 <p align="left">
   <a href="mailto:adityasinghr651@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
