@@ -1,49 +1,71 @@
-<h1 align="center">Hi there 👋, I'm Aditya Singh</h1>
-<h3 align="center">A passionate learner, full-stack web developer & AI explorer from India</h3>
+<h1 align="center">Hi 👋, I'm Aditya Singh</h1>
+<h3 align="center">B.Tech CSE Student | MERN Stack & GenAI | Java+DSA | Exploring ML, Robotics & Modern Tech</h3>
 
 ---
 
-### 💡 About Me
+### 👨‍🎓 About Me
 
-🎓 I'm currently pursuing **B.Tech in Computer Science Engineering (AI, ML & Robotics)** at **DIT University, Dehradun**  
-👨‍💻 Actively learning and building projects using the **MERN stack**, diving deep into **Machine Learning**, **Generative AI**, and mastering **Java with DSA**  
-💡 Passionate about building meaningful solutions that combine full-stack development with smart AI  
-🌱 Always curious to learn, break things, fix them, and explore new tech  
-🚀 I believe in learning by doing — and building projects that solve real-world problems
-
----
-
-### 🛠️ Tech Stack & Tools
-
-- 💻 **Languages**: JavaScript, Java, Python, C
-- 🌐 **Frontend**: HTML5, CSS3, React.js, Tailwind CSS
-- 🛠️ **Backend**: Node.js, Express.js
-- 🧠 **AI/ML**: Python (Pandas, NumPy, scikit-learn), Generative AI tools
-- 🗄️ **Database**: MongoDB, Firebase (basics)
-- 🔧 **Tools & Platforms**: Git, GitHub, VS Code, Postman, Netlify
+- 🎓 I’m a **B.Tech CSE** student at **DIT University, Dehradun**, specializing in **AI, ML & Robotics**  
+- 🚀 Currently learning **MERN Stack**, **Java + DSA**, **Machine Learning**, **GenAI**, and **Version Control (Git & GitHub)**
+- 🤖 Passionate about **Artificial Intelligence**, **Web Development**, and **building real-world projects**
+- 💻 I enjoy working on projects that solve real problems and help me grow technically
+- 🌱 Open to collaborations and learning with the community
 
 ---
 
-### 📈 GitHub Stats
+### 🌐 Connect with me
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/aditya-singh-261201225" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:adityasinghr651@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityasinghr651&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasinghr651&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
+</p>
+
+
+### 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
 </p>
 
 ---
 
-### 🔗 Let's Connect
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=adityasinghr651&show_icons=true&theme=radical" alt="Aditya's GitHub stats" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasinghr651&layout=compact&theme=radical" alt="Top Langs" />
+</p>
+
+---
+
+### ☕ Support
 
 <p>
-  <a href="https://www.linkedin.com/in/aditya-singh-261201225" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
-  <a href="adityasinghr651@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" /></a>
+  <a href="https://www.buymeacoffee.com/">
+    <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black" />
+  </a>
 </p>
 
 ---
 
-### ☕ Support My Journey
-
-If you like what I do, consider buying me a coffee 🙏  
-<a href="https://www.buymeacoffee.com/adityasinghr651" target="_blank"><img src="https://img.shields.io/badge/☕-Buy Me a Coffee-ffdd00?style=flat-square" /></a>
