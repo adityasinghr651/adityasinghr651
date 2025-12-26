@@ -50,20 +50,25 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Activity & Engineering Focus
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityasinghr651&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasinghr651&layout=compact&theme=tokyonight" height="170"/>
-</p>
+- 🔥 **Consistent Contributor:** Actively building and refining projects with regular commits
+- 🧠 **Primary Focus Areas:**
+  - Backend Engineering & APIs
+  - System Design (HLD & scalable architecture)
+  - Full-Stack Development (MERN / Next.js)
+- 🧩 **Problem-Solving Mindset:** Applying DSA concepts and real-world design trade-offs in projects
+- 🏗️ **Project-Driven Learning:** Emphasis on production-ready systems over tutorial-based code
+- 📈 **Growth-Oriented:** Continuously improving code quality, structure, and documentation
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=adityasinghr651&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+### 📌 Current Engineering Priorities
+- Designing scalable backend systems
+- Building secure, token-based authentication flows
+- Applying system design principles in real projects
+- Preparing for **FAANG / MAANG-level interviews**
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adityasinghr651&theme=tokyonight&row=1&no-bg=true&margin-w=12&no-frame=true"/>
-</p>
+> *I believe consistent engineering practice and thoughtful system design matter more than raw statistics.*
+
 
 ---
 
